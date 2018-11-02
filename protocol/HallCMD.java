@@ -14,7 +14,5 @@ public class HallCMD {
 		public final static int HALL_HEARTBEAT = 0x21;
 		public final static int HALL_QUERY_NEWBIE = 0x15;
 	}
-
-	public class RCV { 
-	}
+ 
 }
