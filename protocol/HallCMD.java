@@ -29,9 +29,6 @@ public class HallCMD {
 		public final static int HALLR_HEARTBEAT = 0x51;
 		public final static int HALLR_FORCE_OFFLINE = 0x52;
 		public final static int HALLR_MISSION_ONCHANGE = 0x38;
-		public final static int HALLR_NEW_MAIL = 0x56;
-		public final static int HALLR_QUERY_NEWBIE = 0x57;
-		public final static int HALLR_TIP_MATCH_BEGIN = 0x58;
-		public final static int HALLR_GAME_COUNT = 0x39; // 新增游戏局数统计
+		public final static int HALLR_NEW_MAIL = 0x56; 
 	}
 }
